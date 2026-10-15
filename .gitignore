@@ -1,0 +1,18 @@
+# Local datasets and private data
+*.csv
+*.xlsx
+*.parquet
+data/
+datasets/
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
